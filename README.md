@@ -1,11 +1,11 @@
 # DIY Desktop Variable Power Supply
 
-<img src="https://raw.githubusercontent.com/Ballistyxx/eliferrara/master/assets/Desktop-Power-Supply/render.png" alt="Full CAD model of desktop power supply" width="600" ALIGN="left" HSPACE="20" VSPACE="20"/>
+<img src="https://eliferrara.com/assets/Desktop-Power-Supply/thumbnail.webp" alt="Full CAD model of desktop power supply" width="600" ALIGN="left" HSPACE="20" VSPACE="20"/>
 
 ## Overview
 This project is a **DIY Desktop Variable Power Supply** built using a **laptop power supply**, a **DC-DC buck converter**, and a **custom enclosure**. It provides a variable voltage output for electronics projects, making it an essential tool for any DIY electronics enthusiast.
 
-📜 **Read the full blog post here:** [How I Built a DIY Desktop Variable Power Supply](https://eliferrara.com/2025/01/15/Desktop_Power_Supply.html)
+📜 **Read the full blog post here:** [How I Built a DIY Desktop Variable Power Supply](https://eliferrara.com/blog/desktop-power-supply)
 
 ## Features
 ✔ **Adjustable voltage output (1.25V - 20V)**  
@@ -18,7 +18,6 @@ This project is a **DIY Desktop Variable Power Supply** built using a **laptop p
 ## Project Images
 
 ### Final Build
-<img src="https://raw.githubusercontent.com/Ballistyxx/eliferrara/master/assets/Desktop-Power-Supply/frontpanel.png" alt="Front panel of power supply" width="500" ALIGN="left" HSPACE="20" VSPACE="20"/>
 
 ## Hardware Components
 - **Laptop Power Supply (~65W, 20V output)**
@@ -48,8 +47,6 @@ This power supply does not require any software but follows a structured wiring 
 ## 3D Printing Files & Assembly Guide
 All **.STEP**, **STL**, and **wiring diagrams** are provided in the repository.
 
-📂 **Download Here:** [GitHub Repository](https://github.com/Ballistyxx/desktop-power-supply)
-
 ## Known Limitations & Future Improvements
 ⚠ **Voltage Range Limited to 20V** – Due to the laptop PSU constraints.  
 ⚠ **Enclosure Design Can Be Improved** – More compact and enclosed future iterations possible.  
@@ -60,7 +57,7 @@ This project is open-source under the **MIT License**. Feel free to modify and i
 
 ## Author
 Developed by **Ballistyxx**  
-📧 **Contact:** [GitHub Issues](https://github.com/Ballistyxx/desktop-power-supply/issues)
+📧 **Contact:** [GitHub Issues](https://github.com/eliferrara/desktop-power-supply/issues)
 
 ---
 ✨ **If you like this project, consider giving it a ⭐ on GitHub!**
